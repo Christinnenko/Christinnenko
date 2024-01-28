@@ -4,7 +4,7 @@
 
 I am looking for a remote job or internship with the possibility of career growth and advancement. I have seven years of experience working in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border: none;">
   <tr>
     <td style="width: 70%; vertical-align: top; padding: 10px;">
       <ul style="list-style: none; padding: 0; margin: 0;">
@@ -17,7 +17,7 @@ I am looking for a remote job or internship with the possibility of career growt
     </td>
     <td style="width: 30%; text-align: center; padding: 10px;">
       <div style="width: 50%; margin: 0 auto;">
-        <img src="images/IT-girl.jpg" style="width: 100%; height: auto;" alt="IT-Girl">
+        <img src="images/IT-girl.jpg" style="width: 80%; height: auto;" alt="IT-Girl">
       </div>
     </td>
   </tr>
