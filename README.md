@@ -1,6 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christina
 ## Frontend developer
----------------------------------
 
 I'm looking for remote job or internship opportunities with the potential for career growth and advancement. In 2020, I earned a master's degree in the area of ​​'Innovative Technologies in Human Resource Management.' My education allowed me to accumulate 7 years of experience working for a large international company and in the Nizhny Novgorod Region government. While serving as a team leader and chief specialist, I've developed skills like attentiveness, critical thinking, decision-making, result orientation, communication, stress resilience, continuous self-improvement, and more.
 
