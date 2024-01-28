@@ -15,8 +15,8 @@ I am looking for a remote job or internship with the possibility of career growt
         <li>⚡ <strong>Soft Skills:</strong> Mindfulness, Critical thinking, Decision making, Results orientation, Communication, Stress resistance, Constant self-improvement, and much more.</li>
       </ul>
     </td>
-    <td style="width: 30%; text-align: center; padding-left: 40px;">
-      <img src="images/IT-girl.jpg" style="width: 40%; height: 40%;" alt="IT-Girl">
+    <td style="width: 30%; text-align: center; margin-left: 40px;">
+      <img src="images/IT-girl.jpg" style="width: 70%; height: 70%;" alt="IT-Girl">
     </td>
   </tr>
 </table>
