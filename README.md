@@ -45,21 +45,8 @@
 
 ### Language:
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 70%; vertical-align: top;">
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>Russian - native speaker</li>
-      <li>English - A2 Elementary - in the process of leveling up</li>
-  </ul>
-    </td>
-    <td style="width: 30%; text-align: center;">
-      <div style="width: 10%; margin: 0 auto;">
-        <img src="images/English.png" style="width: 30%; height: auto;" alt="English-level">
-      </div>
-    </td>
-  </tr>
-</table>
+- 🇷🇺 Russian - native speaker
+- 🇬🇧 English - A2 Elementary - in the process of leveling up ⬆️
 
 ### Socials
 
