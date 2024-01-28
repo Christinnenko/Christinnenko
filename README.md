@@ -16,7 +16,7 @@ I am looking for a remote job or internship with the possibility of career growt
   </ul>
     </td>
     <td style="width: 30%;">
-      <img src="images/IT-girl.jpg" width="50%" height="50%" alt="IT-Girl">
+      <img src="images/IT-girl.jpg" width="70%" height="70%" alt="IT-Girl">
     </td>
   </tr>
 </table>
@@ -46,9 +46,19 @@ I am looking for a remote job or internship with the possibility of career growt
 
 ### Language:
 
-- Russian - native speaker
-- English - A2 Elementary - in the process of leveling up
-  <img src="images/English.png" style="float: right; margin-left: 10px;" width="30%" height="30%" alt="English level">
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 70%; vertical-align: top;">
+   <ul>
+      <li>Russian - native speaker</li>
+      <li>English - A2 Elementary - in the process of leveling up</li>
+  </ul>
+    </td>
+    <td style="width: 30%;">
+      <img src="images/English.png" style="float: right; margin-left: 10px;" width="30%" height="30%" alt="English level">
+    </td>
+  </tr>
+</table>
 
 ### Socials
 
