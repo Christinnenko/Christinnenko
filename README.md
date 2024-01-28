@@ -12,8 +12,8 @@ I am looking for a remote job or internship with the possibility of career growt
     - 🤝 I'm open to collaborating on interesting projects
     - ⚡ My soft skills: mindfulness, critical thinking, decision making, results orientation, communication, stress resistance, constant self-improvement, and much more.
   </div>
-  <div style="margin-left: 20px;">
-    ![IT-Girl](images/IT-girl.jpg)
+  <div style="margin-left: 10px;">
+    ![IT-Girl](images/IT-girl.jpg){width=30% height=30%}
   </div>
 </div>
 
@@ -44,7 +44,7 @@ I am looking for a remote job or internship with the possibility of career growt
 
 - Russian - native speaker
 - English - A2 Elementary (according to the online test at EFset Logo <www.efset.org>) - in the process of leveling up<br>
-  ![English level](images/English.png)
+  ![English level](images/English.png){width=50% height=50%}
 
 ### Socials
 
