@@ -4,8 +4,8 @@
 
 I am looking for a remote job or internship with the possibility of career growth and advancement. I have seven years of experience working in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.
 
-<div style="clear: both; display: flex;">
-  <div style="flex: 1;">
+<div style="display: flex;">
+  <div>
     - 🌍 I'm based in Russia, Nizhny Novgorod
     - ✉️ You can contact me at Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
     - 🧠 I'm learning React, Redux
