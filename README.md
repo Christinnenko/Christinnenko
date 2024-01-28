@@ -4,7 +4,7 @@
 
 I am looking for a remote job or internship with the possibility of career growth and advancement. I have seven years of experience working in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.
 
-<div style="clear: both; display: flex; align-items: center;">
+<div style="clear: both; display: flex;">
   <div style="flex: 1;">
     - 🌍 I'm based in Russia, Nizhny Novgorod
     - ✉️ You can contact me at Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
@@ -12,7 +12,7 @@ I am looking for a remote job or internship with the possibility of career growt
     - 🤝 I'm open to collaborating on interesting projects
     - ⚡ My soft skills: mindfulness, critical thinking, decision making, results orientation, communication, stress resistance, constant self-improvement, and much more.
   </div>
-  <div style="flex-shrink: 0; margin-left: 10px;">
+  <div style="margin-left: 10px;">
     <img src="images/IT-girl.jpg" width="30%" height="30%" alt="IT-Girl">
   </div>
 </div>
