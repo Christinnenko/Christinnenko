@@ -4,7 +4,7 @@
 I'm looking for remote job or internship opportunities with the potential for career growth and advancement. In 2020, I earned a master's degree in the area of ​​'Innovative Technologies in Human Resource Management.' My education allowed me to accumulate 7 years of experience working for a large international company and in the Nizhny Novgorod Region government. While serving as a team leader and chief specialist, I've developed skills like attentiveness, critical thinking, decision-making, result orientation, communication, stress resilience, continuous self-improvement, and more.
 
 * 🌍  I'm based in Russia, Nizhny Novgorod
-* ✉️  You can contact me at Telegram: (https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
+* ✉️  You can contact me at Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
 * 🧠  I'm learning React, Redux
 * 🤝  I'm open to collaborating on interesting project
 
