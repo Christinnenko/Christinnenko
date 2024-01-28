@@ -13,8 +13,8 @@
       </ul>
     </td>
     <td style="width: 30%; text-align: center;">
-      <div style="width: 30%; margin: 0 auto;">
-        <img src="images/IT-girl.jpg" style="width: 30%; height: auto;" alt="IT-Girl">
+      <div style="width: 50%; margin: 0 auto;">
+        <img src="images/IT-girl.jpg" style="width: 100%; height: auto;" alt="IT-Girl">
       </div>
     </td>
   </tr>
@@ -54,8 +54,8 @@
   </ul>
     </td>
     <td style="width: 30%; text-align: center;">
-      <div style="width: 50%; margin: 0 auto;">
-        <img src="images/English.png" style="width: 100%; height: auto;" alt="English-level">
+      <div style="width: 30%; margin: 0 auto;">
+        <img src="images/English.png" style="width: 50%; height: auto;" alt="English-level">
       </div>
     </td>
   </tr>
