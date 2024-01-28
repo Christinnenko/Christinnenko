@@ -1,6 +1,6 @@
-# Hi ![hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christina
+<span style="text-decoration: none;"># Hi</span> ![alt text](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<span style="text-decoration: none;">My name is Christina</span>
 
-## Frontend developer
+<span style="text-decoration: none;">## Frontend developer</span>
 
 <table style="width: 100%; border-collapse: collapse; border-color: white !important;">
   <tr>
