@@ -13,8 +13,8 @@
       </ul>
     </td>
     <td style="width: 30%; text-align: center;">
-      <div style="width: 50%; margin: 0 auto;">
-        <img src="images/IT-girl.jpg" style="width: 100%; height: auto;" alt="IT-Girl">
+      <div style="width: 30%; margin: 0 auto;">
+        <img src="images/IT-girl.jpg" style="width: 30%; height: auto;" alt="IT-Girl">
       </div>
     </td>
   </tr>
