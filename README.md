@@ -6,7 +6,7 @@ I am looking for a remote job or internship with the possibility of career growt
 
 <table style="width: 100%; border-color: white;">
   <tr>
-    <td style="width: 70%; vertical-align: top; border-color: white;">
+    <td style="width: 90%; vertical-align: top; border-color: white;">
       <ul style="list-style: none; padding: 0;">
         <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
         <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
@@ -15,7 +15,7 @@ I am looking for a remote job or internship with the possibility of career growt
         <li>⚡ <strong>Soft Skills:</strong> Mindfulness, Critical thinking, Decision making, Results orientation, Communication, Stress resistance, Constant self-improvement, and much more.</li>
       </ul>
     </td>
-    <td style="width: 30%; text-align: center; margin-left: 40px;">
+    <td style="width: 10%; text-align: center; margin-left: 40px;">
       <img src="images/IT-girl.jpg" style="width: 70%; height: 100%;" alt="IT-Girl">
     </td>
   </tr>
