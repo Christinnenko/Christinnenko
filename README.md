@@ -4,18 +4,18 @@
 
 I am looking for a remote job or internship with the possibility of career growth and advancement. I have seven years of experience working in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.
 
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse; border: 1px solid white;">
   <tr>
-    <td style="width: 70%; vertical-align: top;">
-   <ul>
-      <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
-  <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
-  <li>🧠 <strong>Learning:</strong> React, Redux</li>
-  <li>🤝 <strong>Collaboration:</strong> Open to collaborating on interesting projects</li>
-  <li>⚡ <strong>Soft Skills:</strong>mindfulness, critical thinking, decision making, results orientation, communication, stress resistance, constant self-improvement and much more.</li>
-  </ul>
+    <td style="width: 70%; vertical-align: top; padding: 10px; border-right: 1px solid white;">
+      <ul>
+        <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
+        <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
+        <li>🧠 <strong>Learning:</strong> React, Redux</li>
+        <li>🤝 <strong>Collaboration:</strong> Open to collaborating on interesting projects</li>
+        <li>⚡ <strong>Soft Skills:</strong> Mindfulness, Critical thinking, Decision making, Results orientation, Communication, Stress resistance, Constant self-improvement, and much more.</li>
+      </ul>
     </td>
-    <td style="width: 30%;">
+    <td style="width: 30%; text-align: center; padding: 10px;">
       <img src="images/IT-girl.jpg" width="70%" height="70%" alt="IT-Girl">
     </td>
   </tr>
