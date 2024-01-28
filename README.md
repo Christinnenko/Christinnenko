@@ -12,22 +12,11 @@ I am looking for a remote job or internship with the possibility of career growt
   <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
   <li>🧠 <strong>Learning:</strong> React, Redux</li>
   <li>🤝 <strong>Collaboration:</strong> Open to collaborating on interesting projects</li>
-  <li>⚡ <strong>Soft Skills:</strong>
-    <ul>
-      <li>Mindfulness</li>
-      <li>Critical thinking</li>
-      <li>Decision making</li>
-      <li>Results orientation</li>
-      <li>Communication</li>
-      <li>Stress resistance</li>
-      <li>Constant self-improvement</li>
-      <li>And much more</li>
-    </ul>
-  </li>
-</ul>
+  <li>⚡ <strong>Soft Skills:</strong>mindfulness, critical thinking, decision making, results orientation, communication, stress resistance, constant self-improvement and much more.</li>
+  </ul>
     </td>
     <td style="width: 30%;">
-      <img src="images/IT-girl.jpg" width="100%" height="100%" alt="IT-Girl">
+      <img src="images/IT-girl.jpg" width="50%" height="50%" alt="IT-Girl">
     </td>
   </tr>
 </table>
