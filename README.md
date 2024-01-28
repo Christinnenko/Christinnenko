@@ -16,7 +16,7 @@ I am looking for a remote job or internship with the possibility of career growt
       </ul>
     </td>
     <td style="width: 30%; text-align: center; margin-left: 40px;">
-      <img src="images/IT-girl.jpg" style="width: 70%; height: 70%;" alt="IT-Girl">
+      <img src="images/IT-girl.jpg" style="width: 70%; height: 100%;" alt="IT-Girl">
     </td>
   </tr>
 </table>
