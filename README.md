@@ -4,13 +4,13 @@
 
 I am looking for a remote job or internship with the possibility of career growth and advancement. I have seven years of experience working in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.
 
-    - 🌍 I'm based in Russia, Nizhny Novgorod
-    - ✉️ You can contact me at Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
-    - 🧠 I'm learning React, Redux
-    - 🤝 I'm open to collaborating on interesting projects
-    - ⚡ My soft skills: mindfulness, critical thinking, decision making, results orientation, communication, stress resistance, constant self-improvement, and much more.
+- 🌍 I'm based in Russia, Nizhny Novgorod
+- ✉️ You can contact me at Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
+- 🧠 I'm learning React, Redux
+- 🤝 I'm open to collaborating on interesting projects
+- ⚡ My soft skills: mindfulness, critical thinking, decision making, results orientation, communication, stress resistance, constant self-improvement, and much more.
 
-  <img src="images//IT-girl.jpg" style="float: right; margin-left: 10px;" width="30%" height="30%" alt="IT-Girl">
+<img src="images/IT-girl.jpg" style="float: right; margin-left: 10px;" width="30%" height="30%" alt="IT-Girl">
 
 ### Skills
 
