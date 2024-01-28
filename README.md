@@ -7,14 +7,19 @@ I am looking for a remote job or internship with the possibility of career growt
 <table style="width: 100%;">
   <tr>
     <td style="width: 70%; vertical-align: top;">
-      - 🌍 I'm based in Russia, Nizhny Novgorod
-      - ✉️ You can contact me at Telegram:<br/>
-        [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
-      - 🧠 I'm learning React, Redux
-      - 🤝 I'm open to collaborating on interesting projects
-      - ⚡ My soft skills: mindfulness, critical thinking,<br/>
-        decision making, results orientation, communication,<br/>
-        stress resistance, constant self-improvement, and much more.
+     - 🌍 **Location:** Russia, Nizhny Novgorod
+  - ✉️ **Contact:** Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
+  - 🧠 **Learning:** React, Redux
+  - 🤝 **Collaboration:** Open to collaborating on interesting projects
+  - ⚡ **Soft Skills:**
+    - Mindfulness
+    - Critical thinking
+    - Decision making
+    - Results orientation
+    - Communication
+    - Stress resistance
+    - Constant self-improvement
+    - And much more
     </td>
     <td style="width: 30%;">
       <img src="images/IT-girl.jpg" width="100%" height="100%" alt="IT-Girl">
