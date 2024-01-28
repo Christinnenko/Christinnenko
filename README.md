@@ -7,7 +7,7 @@ I am looking for a remote job or internship with the possibility of career growt
 <table style="width: 100%; border-collapse: collapse; border: 1px solid white;">
   <tr>
     <td style="width: 70%; vertical-align: top; border-right: 1px solid white; padding: 10px;">
-      <ul style="list-style: none; padding: 0;">
+      <ul style="list-style: none; padding: 0; margin: 0;">
         <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
         <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
         <li>🧠 <strong>Learning:</strong> React, Redux</li>
