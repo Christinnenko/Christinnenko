@@ -3,12 +3,13 @@
 
 ![альтернативный текст](ссылка на изображение)
 
-I'm looking for remote job or internship opportunities with the potential for career growth and advancement. In 2020, I earned a master's degree in the area of ​​'Innovative Technologies in Human Resource Management.' My education allowed me to accumulate 7 years of experience working for a large international company and in the Nizhny Novgorod Region government. While serving as a team leader and chief specialist, I've developed skills like attentiveness, critical thinking, decision-making, result orientation, communication, stress resilience, continuous self-improvement, and more.
+I am looking for a remote job or internship with the possibility of career growth and advancement. I have seven years of experience working in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.
 
 * 🌍  I'm based in Russia, Nizhny Novgorod
 * ✉️  You can contact me at Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
 * 🧠  I'm learning React, Redux
 * 🤝  I'm open to collaborating on interesting project
+* ⚡  My soft skills: mindfulness, critical thinking, decision making, results orientation, communication, stress resistance, constant self-improvement and much more.
 
 ### Skills
 
