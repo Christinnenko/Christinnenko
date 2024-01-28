@@ -43,8 +43,8 @@ I am looking for a remote job or internship with the possibility of career growt
 ### Language:
 
 - Russian - native speaker
-- English - A2 Elementary (according to the online test at EFset Logo <www.efset.org>) - in the process of leveling up<br>
-  <img src="images/English.png" width="40%" height="40%" alt="English level">
+- English - A2 Elementary - in the process of leveling up
+  <img src="images/English.png" style="float: right; margin-left: 10px;" width="10%" height="10%" alt="English level">
 
 ### Socials
 
