@@ -7,19 +7,24 @@ I am looking for a remote job or internship with the possibility of career growt
 <table style="width: 100%;">
   <tr>
     <td style="width: 70%; vertical-align: top;">
-     - 🌍 **Location:** Russia, Nizhny Novgorod
-  - ✉️ **Contact:** Telegram: [@Christinnenko](https://t.me/Christinnenko) or [Christinnenko@yandex.ru](mailto:Christinnenko@yandex.ru)
-  - 🧠 **Learning:** React, Redux
-  - 🤝 **Collaboration:** Open to collaborating on interesting projects
-  - ⚡ **Soft Skills:**
-    - Mindfulness
-    - Critical thinking
-    - Decision making
-    - Results orientation
-    - Communication
-    - Stress resistance
-    - Constant self-improvement
-    - And much more
+   <ul>
+      <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
+  <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
+  <li>🧠 <strong>Learning:</strong> React, Redux</li>
+  <li>🤝 <strong>Collaboration:</strong> Open to collaborating on interesting projects</li>
+  <li>⚡ <strong>Soft Skills:</strong>
+    <ul>
+      <li>Mindfulness</li>
+      <li>Critical thinking</li>
+      <li>Decision making</li>
+      <li>Results orientation</li>
+      <li>Communication</li>
+      <li>Stress resistance</li>
+      <li>Constant self-improvement</li>
+      <li>And much more</li>
+    </ul>
+  </li>
+</ul>
     </td>
     <td style="width: 30%;">
       <img src="images/IT-girl.jpg" width="100%" height="100%" alt="IT-Girl">
