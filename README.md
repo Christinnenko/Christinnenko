@@ -1,10 +1,8 @@
-<span style="text-decoration: none;"># Hi </span>![alt text](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<span style="text-decoration: none;">My name is Christina</span>
+# Hi ![hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christina. I'm Frontend developer
 
-<span style="text-decoration: none;">## Frontend developer</span>
-
-<table style="width: 100%; border-collapse: collapse; border-color: white !important;">
+<table style="width: 100%;">
   <tr>
-    <td style="width: 70%; vertical-align: top; padding: 10px;">
+    <td style="width: 70%; vertical-align: top;">
       <ul style="list-style: none; padding: 0; margin: 0;">
       <li>I am looking for a remote job or internship with the possibility of career growth and advancement. I have seven years of experience working in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.</li>
         <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
@@ -14,7 +12,7 @@
         <li>⚡ <strong>Soft Skills:</strong> Mindfulness, Critical thinking, Decision making, Results orientation, Communication, Stress resistance, Constant self-improvement, and much more.</li>
       </ul>
     </td>
-    <td style="width: 30%; text-align: center; padding: 10px;">
+    <td style="width: 30%; text-align: center;">
       <div style="width: 50%; margin: 0 auto;">
         <img src="images/IT-girl.jpg" style="width: 100%; height: auto;" alt="IT-Girl">
       </div>
@@ -50,13 +48,15 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 70%; vertical-align: top;">
-   <ul>
+    <ul style="list-style: none; padding: 0; margin: 0;">
       <li>Russian - native speaker</li>
       <li>English - A2 Elementary - in the process of leveling up</li>
   </ul>
     </td>
-    <td style="width: 30%;">
-      <img src="images/English.png" style="float: right; margin-left: 10px;" width="30%" height="30%" alt="English level">
+    <td style="width: 30%; text-align: center;">
+      <div style="width: 50%; margin: 0 auto;">
+        <img src="images/English.png" style="width: 100%; height: auto;" alt="English-level">
+      </div>
     </td>
   </tr>
 </table>
