@@ -3,8 +3,8 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 70%; vertical-align: top;">
+          <p>I am looking for a remote job or internship with the possibility of career growth and advancement.</p>
       <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>I am looking for a remote job or internship with the possibility of career growth and advancement.</li>
         <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
         <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or E-mail: <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
         <li>🧠 <strong>Learning:</strong> React, Redux</li>
