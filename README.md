@@ -4,7 +4,7 @@
   <tr>
     <td style="width: 70%; vertical-align: top;">
       <ul style="list-style: none; padding: 0; margin: 0;">
-      <li>I am looking for a remote job or internship with the possibility of career growth and advancement. I have 7 years of experience in the direction of "Human Resources Management" in a large international company and in the government of the Nizhny Novgorod region. Including experience as a group leader and chief specialist.</li>
+      <li>I am looking for a remote job or internship with the possibility of career growth and advancement.</li>
         <li>🌍 <strong>Location:</strong> Russia, Nizhny Novgorod</li>
         <li>✉️ <strong>Contact:</strong> Telegram: <a href="https://t.me/Christinnenko" target="_blank">@Christinnenko</a> or E-mail: <a href="mailto:Christinnenko@yandex.ru">Christinnenko@yandex.ru</a></li>
         <li>🧠 <strong>Learning:</strong> React, Redux</li>
